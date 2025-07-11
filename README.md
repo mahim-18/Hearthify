@@ -66,7 +66,7 @@ ML_Heart_disease/
 │   ├── App.js                      # Main React app
 │   ├── index.js                    # Entry point
 │   └── ...                         # Other React components and files
-
+```
 
 ---
 
@@ -97,7 +97,9 @@ ML_Heart_disease/
 
 ### Frontend (React)
 1. Run the app:
+
 ```bash
 npm install
 npm start
+```
 
