@@ -1,7 +1,7 @@
 <!-- # Hearthify
 This project predicts the risk of heart disease using machine learning models trained on medical data. It helps in early detection by analyzing key health indicators like age, cholesterol, and blood pressure. -->
 
-# 🫀 Hearthify – Heart Disease Prediction Using Machine Learning
+# 🫀 Heartify – Heart Disease Prediction Using Machine Learning
 
 Hearthify is a full-stack web application that predicts the risk of heart disease based on user input. It uses a machine learning model trained on medical data to provide fast, accurate predictions along with confidence scores. The goal is to support early detection and raise awareness of heart-related health issues.
 
